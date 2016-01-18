@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="tag_qlength">qlengthDialog</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_start">Start!</string>
+    <string name="btn_instr">Instructions</string>
+    <string name="btn_score">Scoreboard</string>
+
+    <string name="choose_length">Choose the quiz length</string>
+    <string name="cancel">Cancel</string>
+    <string name="go">Go!</string>
+    <string-array name="lengths">
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
